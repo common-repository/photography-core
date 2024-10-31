@@ -1,0 +1,18 @@
+.mwt-section-header {
+  position: relative;
+}
+
+.mwt-section-header h3 {
+  display: inline;
+  z-index: 9;
+  background: #fff;
+  padding-right: 20px;
+}
+
+.mwt-section-header .line {
+  position: absolute;
+  width: 100%;
+  height: 1px;
+  background: black;
+  top: 18px;
+}
